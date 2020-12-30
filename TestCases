@@ -1,0 +1,102 @@
+Drugs.com User Stories and Test Case steps
+email.juel@gmail.com,simonmahmud@gmail.com
+Created by
+Team Minecraft
+Last updated just a moment ago
+2 min readAnalytics
+User should able to Identify the expected Pill(Mukit)
+Description
+
+Given customer launch in Drugs dot com  home page
+When Click on the Pill Identifier button
+And Accept the terms and condition
+And Fill-up the pill finder form
+Then Click on search button
+
+User should able to create own medicine list(Mukit)
+Description
+
+Given customer launch in Drugs dot com  home page
+When HoverOver on user name button
+And Click on My Med List link
+And Click on Add Drug Button
+And Type the Drug name on search field
+And Select the medicine
+Then Click on the save button
+User should able to check the symptom(Jason)
+Description
+
+Given customer launch in Drugs dot com  home page
+When Click on the Symptom Checker link
+And Select the Gender
+And Select the body part
+Then Select a Symptom
+User should able to check the symptom(Jason)
+Description
+
+Given customer launch in Drugs dot com  home page
+When Click on the Symptom Checker link
+And Select the Gender
+And Select the body part
+Then Select a Symptom
+
+Save
+User should able to Checker Interactions(Rakiba)
+Description
+
+Given customer launch in Drugs dot com  home page
+When Click on the Interactions Checker button
+And Type the medicine name
+And Select the medicine
+Then Click on the Interactions Checker button
+User should able to check the treatment condition(Rakiba)
+
+
+
+Given customer launch in Drugs dot com  home page
+When Click on the Treatment Options link
+And Type the condition
+Then Select a condition
+User should able to compare two medicine(Rakiba)
+Description
+
+Given customer launch in Drugs dot com  home page
+When Click on the Compare Drugs link
+Then Select the medicine
+
+User should able to know details about Drug and Medication(Mukit)
+Description
+
+Given customer launch in Drugs dot com  home page
+When Click on the Drug and Medications Button
+And Click on any alphabet to Browse Alphabetically
+Then Click on the Medication
+User Should able to check Common diseases and conditions
+Description
+
+Given customer launch in Drugs dot com  home page
+When Click on arrow sign
+And Click on Disease & Condition link
+Then Click on Common diseases and conditions
+
+User Should able to read expected medicine guide(Kazi)
+Description
+
+Given customer launch in Drugs dot com  home page
+When Click on More Button
+And Click on the Antibiotics link
+And Click on the medication list
+And Select Drug class from the dropdown
+And Click on the update
+Then Click on Medication
+User should able to check medication price(kazi)
+Description
+
+Given customer launch in Drugs dot com  home page
+When Click on the Pricing & Coupon Guide link
+And Click on the medication name
+Then Take a screenshot of the price page
+
+
+
+
